@@ -63,4 +63,47 @@ export default {
   font-size: 18px;
   margin: 10px 15px;
 }
+
+@media screen and (max-width: 1200px) {
+  .content {
+    padding: 50px 100px;
+  }
+
+  .item p {
+    margin: 8px 12px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .content {
+    padding: 35px 35px;
+  }
+
+  .item {
+    font-family: "Palatino Linotype";
+  }
+
+  .item p {
+    margin: 5px 10px;
+  }
+}
+
+/* iPhone 5/SE */
+@media screen and (max-width: 320px) {
+  .content {
+    padding: 20px 30px;
+  }
+
+  .item {
+    font-family: "Palatino Linotype";
+  }
+
+  .item h2 {
+    font-size: 22px;
+  }
+  .item p {
+    font-size: 16px;
+    margin: 5px 2px;
+  }
+}
 </style>
