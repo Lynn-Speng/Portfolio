@@ -1,6 +1,6 @@
 # Portfolio
 
-My personal portfolio page built with Vue.js from scratch.
+My personal portfolio page built with Vue.js from scratch. View at [icetwilight.com](https://icetwilight.com)
 
 _If you want to use this repo as a template, please clone this repo and move on to the following steps._
 

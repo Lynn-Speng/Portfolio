@@ -24,7 +24,6 @@ export default {
   padding: 10px 500px;
 }
 .footer p {
-  font-family: "Palatino Linotype";
   text-align: center;
   text-decoration: blue;
   margin: 5px auto;

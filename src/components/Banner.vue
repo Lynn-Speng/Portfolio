@@ -33,17 +33,14 @@ export default {
   padding: 100px 50px;
 }
 
-.title {
-  font-family: "Georgia";
-}
-
 .title h1 {
   font-size: 45px;
+  font-weight: 700;
 }
 
 .title h3 {
   font-style: italic;
-  font-weight: bold;
+  font-weight: 600;
 }
 
 .illustration {
@@ -67,11 +64,6 @@ export default {
     padding: 10px 50px;
   }
 
-  .illustration {
-    flex: 1;
-    /* display: none; */
-  }
-
   .illustration img {
     width: 313px;
     height: 250px;
@@ -91,14 +83,7 @@ export default {
   }
 
   .illustration {
-    flex: 1;
     display: none;
-  }
-
-  .illustration img {
-    width: 500px;
-    height: 400px;
-    object-fit: fill;
   }
 }
 
@@ -123,7 +108,6 @@ export default {
   }
 
   .illustration {
-    flex: 1;
     display: none;
   }
 }

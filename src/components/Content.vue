@@ -54,13 +54,10 @@ export default {
   padding: 50px 500px;
 }
 
-.item {
-  font-family: "Palatino Linotype";
-}
-
 .item p {
   line-height: 140%;
   font-size: 18px;
+  font-weight: 400;
   margin: 10px 15px;
 }
 
@@ -79,10 +76,6 @@ export default {
     padding: 35px 35px;
   }
 
-  .item {
-    font-family: "Palatino Linotype";
-  }
-
   .item p {
     margin: 5px 10px;
   }
@@ -92,10 +85,6 @@ export default {
 @media screen and (max-width: 320px) {
   .content {
     padding: 20px 30px;
-  }
-
-  .item {
-    font-family: "Palatino Linotype";
   }
 
   .item h2 {
