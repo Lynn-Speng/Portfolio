@@ -6,7 +6,7 @@
         I’m Lynn Speng. This name is a variation of my real name(Shaopeng Ling)
         and is widely used on various social media and platforms to substitute
         my real name. As for the domain of the website “Ice Twilight”, it is
-        just a combination of two irrelavant things to make it unique. 😘 And it
+        just a combination of two irrelevant things to make it unique. 😘 And it
         also looks nice, right?
       </p>
     </div>
