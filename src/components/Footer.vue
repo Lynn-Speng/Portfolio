@@ -7,7 +7,7 @@
     </p>
     <p>
       View source code on
-      <a href="https://github.com/Lynn-Speng/Portfolio">Github</a>
+      <a href="https://github.com/LynnSpeng/Portfolio">Github</a>
     </p>
     <p>©2020 - 2021 Lynn Speng</p>
   </div>
